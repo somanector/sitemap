@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Sections -->
+  <url>
+    <loc>https://www.somanector.com/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=home</loc>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=products</loc>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=about</loc>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=contact</loc>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=shipping</loc>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=returns</loc>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=faq</loc>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=foodevents</loc>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=bulkorder</loc>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=giftbaskets</loc>
+  </url>
+
+  <!-- Categories -->
+  <url>
+    <loc>https://www.somanector.com/?section=category&amp;category=Hydrosols</loc>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=category&amp;category=Ayurveda</loc>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=category&amp;category=Skincare</loc>
+  </url>
+
+  <!-- Products -->
+  <url>
+    <loc>https://www.somanector.com/?section=product-detail&amp;product=damask-rose-water</loc>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=product-detail&amp;product=rose-gulkand</loc>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=product-detail&amp;product=rose-sharbat</loc>
+  </url>
+
+</urlset>
