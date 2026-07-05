@@ -10,7 +10,7 @@
     <loc>https://www.somanector.com/?section=home</loc>
   </url>
   <url>
-    <loc>https://www.somanector.com/?section=products</loc>
+    <loc>https://www.somanector.com/?section=categories</loc>
   </url>
   <url>
     <loc>https://www.somanector.com/?section=about</loc>
@@ -23,33 +23,6 @@
   </url>
   <url>
     <loc>https://www.somanector.com/?section=returns</loc>
-  </url>
-  <url>
-    <loc>https://www.somanector.com/?section=faq</loc>
-  </url>
-  <url>
-    <loc>https://www.somanector.com/?section=foodevents</loc>
-  </url>
-  <url>
-    <loc>https://www.somanector.com/?section=bulkorder</loc>
-  </url>
-  <url>
-    <loc>https://www.somanector.com/?section=giftbaskets</loc>
-  </url>
-  <url>
-    <loc>https://www.somanector.com/?section=wedding-menu</loc>
-  </url>
-  <url>
-    <loc>https://www.somanector.com/?section=myorders</loc>
-  </url>
-  <url>
-    <loc>https://www.somanector.com/?section=profile</loc>
-  </url>
-  <url>
-    <loc>https://www.somanector.com/?section=cart</loc>
-  </url>
-  <url>
-    <loc>https://www.somanector.com/?section=login</loc>
   </url>
 
   <!-- Categories -->
@@ -103,6 +76,9 @@
   <url>
     <loc>https://www.somanector.com/?section=product-detail&amp;product=plain-heavy-gauge-oversized-tshirt-cotton-orchidpink-men</loc>
   </url>
+  <url>
+    <loc>https://www.somanector.com/?section=product-detail&amp;product=plain-heavy-gauge-oversized-tshirt-cotton-lightmint-men</loc>
+  </url>
 
   <url>
     <loc>https://www.somanector.com/?section=product-detail&amp;product=plain-acid-wash-heavy-gauge-oversized-tshirt-cotton-bottlegreen-women</loc>
@@ -142,6 +118,9 @@
   </url>
   <url>
     <loc>https://www.somanector.com/?section=product-detail&amp;product=plain-heavy-gauge-oversized-tshirt-cotton-orchidpink-women</loc>
+  </url>
+  <url>
+    <loc>https://www.somanector.com/?section=product-detail&amp;product=plain-heavy-gauge-oversized-tshirt-cotton-lightmint-women</loc>
   </url>
   
   <url>
